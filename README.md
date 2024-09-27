@@ -24,7 +24,7 @@ To get started with this project, follow these simple steps:
    ```bash
    git clone https://github.com/yourusername/todo-app.git
    cd todo-app
-📋 Usage
+##📋 Usage
 Add a Task: Type your task in the input box and click the Add button.
 Mark as Complete: Click on a task to check it off as done.
 Remove a Task: Click the × icon next to a task to delete it.
@@ -32,15 +32,15 @@ Preview
 Here’s a sneak peek of what the app looks like:
 
 
-🤝 Contribution
+##🤝 Contribution
 Contributions are welcome! If you'd like to enhance this project, feel free to fork the repository and submit a pull request. Let’s make this app even better together!
 
-📜 License
+##📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-🎉 Acknowledgements
+##🎉 Acknowledgements
 Inspired by various productivity tools and applications.
 Special thanks to the creators of Poppins for the beautiful font.
-✍️ Author
+##✍️ Author
 Made with ❤️ by Yash
 
