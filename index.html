@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Set viewport for responsive design -->
+        <title>To-Do List App</title> <!-- Title of the webpage -->
+        <link rel="stylesheet" href="style.css"> <!-- Link to external CSS stylesheet -->
+    </head>
+    <body>
+        <div class="container"> <!-- Main container for the app -->
+            <div class="todo-app"> <!-- Container for the todo application -->
+                <h2>To-Do List <img src="images/icon.png"> </h2> <!-- Heading with an icon -->
+                <div class="row"> <!-- Row container for input and button -->
+                    <input type="text" id="input-box" placeholder="Add your text"> <!-- Input box for new tasks -->
+                    <button onclick="addTask()">Add</button> <!-- Button to add tasks, calls addTask() function -->
+                </div>
+                <ul id="list-container"> <!-- Unordered list for displaying tasks -->
+                </ul>
+            </div>    
+        </div>
+        <div class="footer">💙 Made by Yash</div>
+
+        <script src="script.js"></script> <!-- Link to external JavaScript file -->
+    </body>
+</html>
