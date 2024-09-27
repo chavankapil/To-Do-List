@@ -10,8 +10,8 @@
             <div class="todo-app"> <!-- Container for the todo application -->
                 <h2>To-Do List <img src="images/icon.png"> </h2> <!-- Heading with an icon -->
                 <div class="row"> <!-- Row container for input and button -->
-                    <input type="text" id="input-box" placeholder="Add your text"> <!-- Input box for new tasks -->
-                    <button onclick="addTask()">Add</button> <!-- Button to add tasks, calls addTask() function -->
+                    <input type="text" id="input-box" placeholder="Add your text" aria-label="Task Input"> <!-- Input box for new tasks -->
+                    <button onclick="addTask()" aria-label="Add Task">Add</button> <!-- Button to add tasks, calls addTask() function -->
                 </div>
                 <ul id="list-container"> <!-- Unordered list for displaying tasks -->
                 </ul>
