@@ -22,7 +22,7 @@ To get started with this project, follow these simple steps:
 
 1. Clone the repository or download the ZIP file:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/yashatgitt/todo-app.git
    cd todo-app
 ## 📋 Usage
 Add a Task: Type your task in the input box and click the Add button.
