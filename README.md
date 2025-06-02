@@ -1,7 +1,7 @@
 # 🌟 To-Do List App 🌟
 
 Welcome to the **To-Do List App**! This delightful application is designed to help you manage your tasks effortlessly. Built with **HTML**, **CSS**, and **JavaScript**, it combines functionality with a sleek user interface to make your daily planning a breeze.
-# Try now on : https://yashatgitt.github.io/To-Do-List/
+## Try now on : https://yashatgitt.github.io/To-Do-List/
 
 ## 🚀 Features
 
