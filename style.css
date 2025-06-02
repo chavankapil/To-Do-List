@@ -8,7 +8,7 @@
 .container {
     width: 100%; /* Full width of the container */
     min-height: 100vh; /* Minimum height is 100% of the viewport height */
-    background: linear-gradient(-135deg,  #89ABE3, #EA738D); /* Gradient background */
+    background: linear-gradient(-135deg,  #211C84,#4D55CC,#7A73D1,#B5A8D5); /* Gradient background */
     padding: 10px; /* Padding around the container */
 }
 
